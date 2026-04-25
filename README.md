@@ -218,6 +218,16 @@ The model correctly learns: dramatic dialogue format, character name caps, Eliza
 
 ---
 
+## 🔗 Links
+
+| Resource | URL |
+|---|---|
+| 📓 GitHub Repository | [github.com/rachitst/build-llm-vizuara](https://github.com/rachitst/build-llm-vizuara) |
+| ☁️ Colab Notebook | [Open in Colab](https://colab.research.google.com/drive/1qK7fm-qHBC63byPhfqRaFShhRuIfAOMI?usp=sharing) |
+| 📚 Dataset | [Project Gutenberg eBook #100](https://www.gutenberg.org/files/100/100-0.txt) |
+
+---
+
 ## 📋 Submission Checklist
 
 - [x] `rachit-chheda-build-llm-from-scratch.ipynb` — complete experiment notebook with outputs
